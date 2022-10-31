@@ -1,0 +1,62 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header,
+nav,
+footer {
+    vertical-align: top;
+    width: 700px;
+    height: 50px;
+    background-color: brown;
+    display: inline-block;
+}
+
+nav {
+    background-color: rgb(151, 91, 91);
+}
+
+aside {
+    vertical-align: top;
+    width: 150px;
+    height: 100px;
+    padding: 15px;
+    background-color: rgb(140, 140, 55);
+    display: inline-block;
+    margin: -50px 0 0 -4px;
+}
+
+footer {
+    background-color: rgb(25, 23, 23);
+    width: 850px;
+}
+
+footer p {
+    color: white;
+}
+
+section {
+    width: 850px;
+    height: 300px;
+    background-color: green;
+}
+
+div {
+    width: 750px;
+    height: 60px;
+    margin: 20px auto;
+    background-color: aqua;
+    padding: 10px 20px;
+}
+
+p {
+    font-size: 24px;
+    padding: 10px 20px;
+}

@@ -30,7 +30,7 @@ h2 {
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/
 
 li {
-    color: rgb(100, 76, 250);
+    color: #644cfa;
     ;
 }
 
@@ -60,7 +60,7 @@ input {
 
 #special {
     border: 2px solid;
-    border-color: rgb(150, 100, 250);
+    border-color: rgb(0, 0, 255);
 }
 
 
