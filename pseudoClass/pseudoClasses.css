@@ -112,18 +112,10 @@ div p {
 }
 
 
-/* ვიცი რომ Pseudo-elements ით ან Pseudo-classes ით უნდა გამეკეთებინა მარა ვერანაირად მივაგენი ვერსად :დ */
-
-
 /* Make the <label> elements all UPPERCASE without changing the HTML(definitely look this one up*/
 
-input {
-    margin-top: 25px;
-}
-
 label {
-    position: absolute;
-    left: 20px;
+    text-transform: uppercase;
 }
 
 
